@@ -1,0 +1,51 @@
+Item ID,Name,Quantity,Retail Price,Wholesale Price
+201,Milk (1L),155,60,55
+202,Bread (400g),66,40,35
+203,Butter (100g),90,55,50
+204,Paneer (200g),38,90,85
+205,Yogurt (500g),118,50,45
+206,Cheese Slices (10 pcs),60,85,78
+207,Eggs (12 pcs),120,80,75
+208,Basmati Rice (5kg),68,480,450
+209,Atta (Wheat Flour 5kg),85,250,230
+210,Toor Dal (1kg),100,140,130
+211,Chana Dal (1kg),90,110,100
+212,Moong Dal (1kg),85,130,120
+213,White Sugar (1kg),120,45,40
+214,Tea (500g),100,240,220
+215,Coffee (200g),60,160,150
+216,Biscuits - Parle-G (250g),190,25,22
+217,Biscuits - Bourbon (150g),180,30,27
+218,Chips - Lays (90g),200,20,18
+219,Namkeen - Haldiram (200g),150,50,45
+220,Instant Noodles - Maggi (70g),300,14,12
+221,Chocolates - Dairy Milk (42g),249,20,18
+222,Soft Drink - Coke (750ml),98,45,40
+223,Fruit Juice - Real (1L),75,110,100
+224,Bottled Water (1L),500,20,18
+225,Apples (1kg),100,180,160
+226,Bananas (1 dozen),80,60,55
+227,Oranges (1kg),89,100,90
+228,Grapes (500g),75,90,80
+229,Onions (1kg),200,35,30
+230,Tomatoes (1kg),200,40,35
+231,Potatoes (1kg),200,30,25
+232,Carrots (1kg),150,50,45
+233,Coriander Bunch,300,15,10
+234,Green Chilies (250g),200,20,18
+235,Ginger (250g),150,25,22
+236,Garlic (250g),150,30,28
+237,Toothpaste (Colgate 100g),100,55,50
+238,Shampoo (200ml),90,120,110
+239,Soap - Lux (100g),200,35,30
+240,Detergent - Surf Excel (1kg),100,130,120
+241,Washing Bar - Rin,150,20,18
+242,Dishwash Liquid (500ml),64,75,70
+243,Floor Cleaner (1L),80,150,140
+244,Toilet Cleaner (500ml),90,90,85
+245,Handwash (250ml),100,60,55
+246,Sanitary Pads (Pack of 7),80,90,85
+247,Face Cream (Fair & Lovely),62,110,100
+248,Cooking Oil - Sunflower (1L),119,160,150
+249,Ghee (500ml),47,280,270
+250,Pickle - Mango (500g),79,100,90

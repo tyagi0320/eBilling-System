@@ -164,6 +164,7 @@ You can automate these as **buttons** in the GUI for real-time insights.
 
 ---
 
+<<<<<<< HEAD
 ## Can This Be Deployed?
 
 Yes! While it's built as a desktop application, future deployment options include:
@@ -175,6 +176,9 @@ Yes! While it's built as a desktop application, future deployment options includ
 ---
 
 ## Future Enhancements
+=======
+## 🧠 Future Enhancements
+>>>>>>> 60e5ff29e7e299da28bcdcff4d2f13ae918383f3
 
 - Login/role-based access
 - Graphical dashboards for sales trends
@@ -186,6 +190,10 @@ Yes! While it's built as a desktop application, future deployment options includ
 
 ## Author
 
+<<<<<<< HEAD
+=======
+**Harshit Tyagi**  
+>>>>>>> 60e5ff29e7e299da28bcdcff4d2f13ae918383f3
 📧 Email: tharshit03@gmail.com  
 🔗 GitHub: [@tyagi0320](https://github.com/tyagi0320)
 

@@ -1,10 +1,10 @@
-# 🧾 eBilling System – Inventory & Billing Management
+# eBilling System – Inventory & Billing Management
 
 A full-featured, desktop-based inventory and billing system built using **Python**, **MySQL**, and **FPDF**. Designed to manage inventory, handle customers, and generate professional PDF invoices for retail or wholesale businesses.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📦 Add and manage inventory using CSV
 - 👥 Add new customers (with duplicate prevention)
@@ -18,7 +18,7 @@ A full-featured, desktop-based inventory and billing system built using **Python
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer        | Technology         |
 |--------------|--------------------|
@@ -30,7 +30,7 @@ A full-featured, desktop-based inventory and billing system built using **Python
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```bash
 📁 ebilling-system/
@@ -47,7 +47,7 @@ A full-featured, desktop-based inventory and billing system built using **Python
 
 ---
 
-## 🧱 Database Schema
+## Database Schema
 
 ### Create Database
 
@@ -98,7 +98,7 @@ CREATE TABLE bill_details (
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 ### 1. Clone Repository
 
@@ -134,9 +134,9 @@ python main.py
 
 ---
 
-## 📈 Bonus Features
+## Bonus Features
 
-### 📌 Top Customers by Spend
+### Top Customers by Spend
 
 ```sql
 SELECT c.customer_name, SUM(b.total_amount) AS total_spent
@@ -147,7 +147,7 @@ ORDER BY total_spent DESC
 LIMIT 5;
 ```
 
-### 🔁 Inventory Turnover Ratio
+### Inventory Turnover Ratio
 
 ```sql
 SELECT 
@@ -164,7 +164,7 @@ You can automate these as **buttons** in the GUI for real-time insights.
 
 ---
 
-## 🌐 Can This Be Deployed?
+## Can This Be Deployed?
 
 Yes! While it's built as a desktop application, future deployment options include:
 
@@ -174,7 +174,7 @@ Yes! While it's built as a desktop application, future deployment options includ
 
 ---
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 - Login/role-based access
 - Graphical dashboards for sales trends
@@ -184,16 +184,15 @@ Yes! While it's built as a desktop application, future deployment options includ
 
 ---
 
-## 👤 Author
+## Author
 
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: tharshit03@gmail.com  
+🔗 GitHub: [@tyagi0320](https://github.com/tyagi0320)
 
 ---
 
 ## 📄 License
 
-MIT License. Feel free to modify and use this project for personal or commercial use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---

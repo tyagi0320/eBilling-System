@@ -164,17 +164,6 @@ You can automate these as **buttons** in the GUI for real-time insights.
 
 ---
 
-<<<<<<< HEAD
-## Can This Be Deployed?
-
-Yes! While it's built as a desktop application, future deployment options include:
-
-- ✅ Packaging as an executable using `pyinstaller`
-- 🌐 Migrating backend to Flask/Django + React for web version
-- ☁️ Hosting the database on AWS RDS or any MySQL server
-
----
-
 ## Future Enhancements
 
 - Login/role-based access
